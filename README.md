@@ -1,4 +1,4 @@
-# This Just Sample Repo While learning GitHub
+# This is Just Sample Repo While learning GitHub
 
 ## In this we will learn all about GitHub
 
