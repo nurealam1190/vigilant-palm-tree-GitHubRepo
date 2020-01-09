@@ -1,3 +1,7 @@
 ## Here are the instruction to work on this repos. Please follow.
 ## Some more instruction.
+<<<<<<< HEAD
 ## few more instr.
+=======
+## One more instruction.
+>>>>>>> de527a2f1e18fdf4d449fa72ccc892f929324eae
